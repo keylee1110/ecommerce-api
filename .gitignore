@@ -1,0 +1,20 @@
+# Java
+*.class
+/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+thumbs.db
+
+# Docker
+docker-compose.override.yml
